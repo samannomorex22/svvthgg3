@@ -1,0 +1,1 @@
+vless://b4a79b87-94f3-4be5-a3b6-be7686ac5424@188.114.96.54:2053?security=tls&encryption=none&type=ws&host=oc.petshopmars.com&path=/dwonload&sni=oc.petshopmars.com&fp=randomized#انگلیس جدید اصلی
